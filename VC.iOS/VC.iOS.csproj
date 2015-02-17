@@ -106,14 +106,17 @@
   <ItemGroup>
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />
-    <Compile Include="MasterViewController.cs" />
-    <Compile Include="MasterViewController.designer.cs">
-      <DependentUpon>MasterViewController.cs</DependentUpon>
-    </Compile>
-    <Compile Include="DetailViewController.cs" />
-    <Compile Include="DetailViewController.designer.cs">
+    <Compile Include="ViewControllers\DetailViewController.cs" />
+    <Compile Include="ViewControllers\DetailViewController.designer.cs">
       <DependentUpon>DetailViewController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ViewControllers\MasterViewController.cs" />
+    <Compile Include="ViewControllers\MasterViewController.designer.cs">
+      <DependentUpon>MasterViewController.cs</DependentUpon>
     </Compile>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
+  <ItemGroup>
+    <Folder Include="ViewControllers\" />
+  </ItemGroup>
 </Project>
