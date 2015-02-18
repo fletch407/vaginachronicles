@@ -4,9 +4,9 @@
 	--cache \
 	/Users/developer/Documents/Dev/VC.iOS/VC.iOS/obj/iPhoneSimulator/Debug/mtouch-cache \
 	--sim \
-	/Users/developer/Documents/Dev/VC.iOS/VC.iOS/bin/iPhoneSimulator/Debug/VC.iOS.app \
+	/Users/developer/Documents/Dev/VC.iOS/VC.iOS/bin/iPhoneSimulator/Debug/VCiOS.app \
 	--executable \
-	VC.iOS \
+	VCiOS \
 	--debug \
 	--nolink \
 	--sdkroot \
@@ -26,4 +26,4 @@
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
-	/Users/developer/Documents/Dev/VC.iOS/VC.iOS/bin/iPhoneSimulator/Debug//VC.iOS.exe \
+	/Users/developer/Documents/Dev/VC.iOS/VC.iOS/bin/iPhoneSimulator/Debug//VCiOS.exe \

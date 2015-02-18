@@ -12,3 +12,7 @@
 /Users/developer/Documents/Dev/VC.iOS/VC.iOS/bin/iPhoneSimulator/Debug/VC.iOS.exe
 /Users/developer/Documents/Dev/VC.iOS/VC.iOS/obj/iPhoneSimulator/Debug/VC.iOS.exe
 /Users/developer/Documents/Dev/VC.iOS/VC.iOS/obj/iPhoneSimulator/Debug/VC.iOS.exe.mdb
+/Users/developer/Documents/Dev/VC.iOS/VC.iOS/bin/iPhoneSimulator/Debug/VCiOS.exe.mdb
+/Users/developer/Documents/Dev/VC.iOS/VC.iOS/bin/iPhoneSimulator/Debug/VCiOS.exe
+/Users/developer/Documents/Dev/VC.iOS/VC.iOS/obj/iPhoneSimulator/Debug/VCiOS.exe
+/Users/developer/Documents/Dev/VC.iOS/VC.iOS/obj/iPhoneSimulator/Debug/VCiOS.exe.mdb

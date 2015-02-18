@@ -46,6 +46,7 @@ namespace VC.iOS
 
 			TableView.Source = dataSource = new DataSource (this);
             dataSource.Objects.Insert(0, "Jeff is Gaye!");
+			dataSource.Objects.Insert (1, "Doug is awesome!");
 		}
 
 		class DataSource : UITableViewSource
