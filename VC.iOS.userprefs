@@ -1,6 +1,6 @@
 ﻿<Properties StartupItem="VC.iOS/VC.iOS.csproj" GitUserInfo="UsingGIT">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone5.8.1" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="VC.iOS/AppDelegate.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="VC.iOS/AppDelegate.cs" Line="1" Column="1" />
     </Files>

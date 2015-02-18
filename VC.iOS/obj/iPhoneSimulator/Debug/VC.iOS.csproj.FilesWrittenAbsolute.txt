@@ -16,3 +16,17 @@
 /Users/developer/Documents/Dev/VC.iOS/VC.iOS/bin/iPhoneSimulator/Debug/VCiOS.exe
 /Users/developer/Documents/Dev/VC.iOS/VC.iOS/obj/iPhoneSimulator/Debug/VCiOS.exe
 /Users/developer/Documents/Dev/VC.iOS/VC.iOS/obj/iPhoneSimulator/Debug/VCiOS.exe.mdb
+/Users/jnickel/GitHub/vaginachronicles/VC.iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/jnickel/GitHub/vaginachronicles/VC.iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/jnickel/GitHub/vaginachronicles/VC.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/Ah7-4n-0Wa-view-MMQ-IT-qOo.nib
+/Users/jnickel/GitHub/vaginachronicles/VC.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/Info.plist
+/Users/jnickel/GitHub/vaginachronicles/VC.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-Ah7-4n-0Wa.nib
+/Users/jnickel/GitHub/vaginachronicles/VC.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-rS3-R9-Ivy.nib
+/Users/jnickel/GitHub/vaginachronicles/VC.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/pGg-6v-bdr-view-mLL-gJ-YKr.nib
+/Users/jnickel/GitHub/vaginachronicles/VC.iOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/jnickel/GitHub/vaginachronicles/VC.iOS/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/jnickel/GitHub/vaginachronicles/VC.iOS/obj/iPhoneSimulator/Debug/
+/Users/jnickel/GitHub/vaginachronicles/VC.iOS/bin/iPhoneSimulator/Debug/VCiOS.exe.mdb
+/Users/jnickel/GitHub/vaginachronicles/VC.iOS/bin/iPhoneSimulator/Debug/VCiOS.exe
+/Users/jnickel/GitHub/vaginachronicles/VC.iOS/obj/iPhoneSimulator/Debug/VCiOS.exe
+/Users/jnickel/GitHub/vaginachronicles/VC.iOS/obj/iPhoneSimulator/Debug/VCiOS.exe.mdb
