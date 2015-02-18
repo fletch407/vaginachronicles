@@ -45,6 +45,7 @@ namespace VC.iOS
 			NavigationItem.RightBarButtonItem = addButton;
 
 			TableView.Source = dataSource = new DataSource (this);
+            dataSource.Objects.Insert(0, "Jeff is Gaye!");
 		}
 
 		class DataSource : UITableViewSource
