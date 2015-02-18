@@ -1,0 +1,14 @@
+/Users/developer/Documents/Dev/VC.iOS/VC.iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/developer/Documents/Dev/VC.iOS/VC.iOS/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/developer/Documents/Dev/VC.iOS/VC.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/Ah7-4n-0Wa-view-MMQ-IT-qOo.nib
+/Users/developer/Documents/Dev/VC.iOS/VC.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/Info.plist
+/Users/developer/Documents/Dev/VC.iOS/VC.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-Ah7-4n-0Wa.nib
+/Users/developer/Documents/Dev/VC.iOS/VC.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/UIViewController-rS3-R9-Ivy.nib
+/Users/developer/Documents/Dev/VC.iOS/VC.iOS/obj/iPhoneSimulator/Debug/ibtool/MainStoryboard.storyboardc/pGg-6v-bdr-view-mLL-gJ-YKr.nib
+/Users/developer/Documents/Dev/VC.iOS/VC.iOS/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/developer/Documents/Dev/VC.iOS/VC.iOS/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/developer/Documents/Dev/VC.iOS/VC.iOS/obj/iPhoneSimulator/Debug/
+/Users/developer/Documents/Dev/VC.iOS/VC.iOS/bin/iPhoneSimulator/Debug/VC.iOS.exe.mdb
+/Users/developer/Documents/Dev/VC.iOS/VC.iOS/bin/iPhoneSimulator/Debug/VC.iOS.exe
+/Users/developer/Documents/Dev/VC.iOS/VC.iOS/obj/iPhoneSimulator/Debug/VC.iOS.exe
+/Users/developer/Documents/Dev/VC.iOS/VC.iOS/obj/iPhoneSimulator/Debug/VC.iOS.exe.mdb
